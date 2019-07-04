@@ -1,0 +1,41 @@
+body {
+    background-color: brown;
+}
+
+p, li{
+    font-size: 16px;
+    line-height:2;
+    letter-spacing: 1px;    
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+ol {
+    border: 5px solid green;
+    color: white;
+    width: 600px;   
+}
+
+ul {
+    border:2px dashed gold;
+    color: white;
+}
+
+link {
+    color: limegreen;
+}
+html {
+    font-size: 12px;
+    font-family: 'Muli', sans-serif;
+    background-color: #BF3FBF;
+}
+
+/* 
+
+font-family: 'Muli', sans-serif;
+
+
+*/
