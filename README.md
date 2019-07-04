@@ -1,1 +1,34 @@
 # abshalom92.github.io
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <title>My test page</title>
+      <link href="styles/styles.css" rel="stylesheet">
+    
+  </head>
+  <body>
+      <h1> HTML pratice website :)</h1>
+    <img src="images/mysitelogo.png" alt="The words 'Shalom's Corner' on a grey background" />
+      
+      <p>These are a few of my favorite things</p>
+      <ol>
+        <li>Musical instruments</li>
+        <li>my wife</li>
+        <li>my familia</li>
+        <li> great music</li>
+      </ol>
+      <ul>
+      
+        <li>...but God is in the midst of it all.</li>
+        <li> I can't thank Him enough for everything He has been doing throughout my life.</li>
+      
+      </ul>     
+
+      <a href="https://www.google.com"> Here's a link to my favorite website!</a>
+  
+    
+    <script src="scripts/main.js"></script>
+    </body>
+</html>
